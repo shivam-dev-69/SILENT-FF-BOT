@@ -1,0 +1,68 @@
+{
+  "accounts": [
+    {
+      "id": "001",
+      "name": "Premium Account",
+      "level": 65,
+      "rank": "Heroic",
+      "price": 499,
+      "image": "id001.jpg",
+      "description": "Premium collection account"
+    },
+    {
+      "id": "acc1793273308421",
+      "name": "SELL ID",
+      "level": 79,
+      "rank": "MASTER",
+      "price": 1500,
+      "image": "id002.jpg",
+      "description": "SELL ID WITH CHEAP PRICE"
+    }
+  ],
+  "cards": [
+    {
+      "id": "card1",
+      "name": "Gaming Pro Card",
+      "price": 299,
+      "balance": "500,00💎Diamonds",
+      "expiryDate": "USE ONLY ONE TIME",
+      "image": "card1.jpg"
+    },
+    {
+      "id": "card2",
+      "name": "Battle Pass Elite",
+      "price": 499,
+      "balance": "2,000,00 💎 Diamonds",
+      "expiryDate": "USE ONLY ONE TIME",
+      "image": "card2.jpg"
+    },
+    {
+      "id": "card3",
+      "name": "Loot Box Booster",
+      "price": 799,
+      "balance": "90000 💎 Diamonds",
+      "expiryDate": "USE ONY ONE TIME",
+      "image": "card3.jpg"
+    },
+    {
+      "id": "card4",
+      "name": "VIP Card",
+      "price": 1200,
+      "balance": "1 lakh  💎 Diamonds",
+      "expiryDate": "USE ONY ONE TIME ",
+      "image": "card4.jpg"
+    }
+  ],
+  "vip": [
+    {
+      "id": "vip1",
+      "name": "VIP Access",
+      "price": 20000
+    },
+    {
+      "id": "vip2",
+      "name": "Premium VIP",
+      "price": 30000
+    }
+  ]
+}
